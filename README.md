@@ -1,4 +1,4 @@
-# foxy-pie-bot
+# foxy-node-bot
 
 ## A discord bot that 
 
